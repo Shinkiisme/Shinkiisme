@@ -54,4 +54,4 @@ A backend learning project that manages **students, courses, and enrollments**.
 
 ### 📫 Find Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Shinkii-181717?style=flat-square&logo=github)](https://github.com/Shinkii)
+[![GitHub](https://img.shields.io/badge/GitHub-Shinkiisme-181717?style=flat-square&logo=github)](https://github.com/Shinkiisme)
